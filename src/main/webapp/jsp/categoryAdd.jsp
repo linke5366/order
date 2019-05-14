@@ -27,7 +27,7 @@
 		<br>
 		<input type = "submit" value = "添加"/>
 		&nbsp;
-		<input type = "button" value = "取消" onclick="window.location.href='/showCategories'"/>
+		<input type = "button" value = "关闭" onclick="window.location.href='/showCategories'"/>
 	</form>
 
 </body>
